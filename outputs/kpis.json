@@ -1,0 +1,12 @@
+{
+  "ann_return_50y": 0.0903,
+  "ann_vol_50y": 0.1225,
+  "best_year": 0.4619,
+  "worst_year": -0.4558,
+  "real_cagr_since1871": 0.0247,
+  "rolling20_real_cagr_min": -0.054,
+  "rolling20_real_cagr_median": 0.0222,
+  "rolling20_real_cagr_p90": 0.0643,
+  "avg_months_to_recover_top10": 113.9,
+  "deepest_dd_pct": -0.8476
+}
